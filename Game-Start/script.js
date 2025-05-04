@@ -58,7 +58,7 @@ style.textContent = `
     body {
         background-color:rgba(93, 125, 99, 0.48);
         text-align:center;
-        margin-top:300px;
+        margin-top:200px;
     }
 
     #rock,#paper,#scissors{
