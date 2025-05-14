@@ -30,15 +30,6 @@ A fun and interactive **Rock Paper Scissors** game built with **HTML**, **CSS**,
 ## 🙌 Author
 
 **Irtiza**  
-[GitHub Profile](
-## 🧪 How to Run
-
-1. Clone or download the repository.
-2. Open `index.html` in your browser.
-
-## 🙌 Author
-
-**Irtiza**  
 [GitHub Profile](https://github.com/irtizaa647)
  
 
